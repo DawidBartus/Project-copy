@@ -2,15 +2,14 @@
   "name": "filmoteka",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://dominikdanielewicz.github.io/goit-javascript-project-g4",
+  "homepage": "https://dawidbartus.github.io/Project-copy/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /goit-javascript-project-g4/",
-    "clear-cache": "rm -rf .parcel-cache"
+    "build": "parcel build src/*.html --public-url /Project-copy/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dominikdanielewicz/goit-javascript-project-g4.git"
+    "url": "git+https://dawidbartus.github.io/Project-copy/"
   },
   "keywords": [],
   "author": "GoIT Student Team",
